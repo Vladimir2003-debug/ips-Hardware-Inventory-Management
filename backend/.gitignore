@@ -1,0 +1,9 @@
+/env
+/__pycache__
+/migrations
+context/
+*.db
+*.sqlite3
+*.pyc
+*.pyo
+*.pyd
